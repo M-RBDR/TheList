@@ -10,6 +10,7 @@ A curated list of useful Table Top RPG tools, software, and resources.
   - [Random Generation](#random-generation)
   - [Encounter Tools](#encounter-tools)
   - [Audio](#audio)
+  - [GM Tools](#gm-tools)
   - [Blogs](#blogs)
   - [Miscellaneous](#miscellaneous)
 - [System Specific](#system-specific)
@@ -35,6 +36,7 @@ A curated list of useful Table Top RPG tools, software, and resources.
 * [ANAmap](http://deepnight.net/tools/tabletop-rpg-map-editor/) - A web based map builder with lots of decorations and options.
 * [Inkarnate](http://inkarnate.com/maps#/) - Sculpt continents into a world map.
 * [Pyromancers Dungeon Painter](http://pyromancers.com/dungeon-painter-online/) - A web based dungeon designer.
+* [Dave's Mapper](http://davesmapper.com/) - A Geomorph map generator with lots of different tile sets from lots of different artists.
 
 ## Random Generation
 
@@ -58,6 +60,15 @@ A curated list of useful Table Top RPG tools, software, and resources.
 * [Syrinscape](https://syrinscape.com/) - Dynamic sound generation. Features a fantasy and sci-fi package. Can generate sound effects and a soundtrack.
 * [Ambient Mixer](http://www.ambient-mixer.com/) - Music, ambient atmosphere and sound effects. Released under a Creative Commons license.
 
+## GM Tools
+
+*Tools designed with the GM in mind.*
+
+* [Realm Works](http://www.wolflair.com/realmworks) - A campaign manager, features relationship diagrams, images, and lots of other organizational tools.
+* [Obsidian Portal](https://obsidianportal.com) - A web based campaign manager that allows you to build a wiki, store characters, and interact with players.
+* [The Same Page Tool](https://bankuei.wordpress.com/2010/03/27/the-same-page-tool/) - A guide to getting all the players on the same track and palying the same game.
+* [City of Brass](https://cityofbrass.io/) - World building, adventure building, character sheets, campaigns.
+
 ## Blogs
 
 *Blogs full of useful RPG information.*
@@ -72,8 +83,7 @@ A curated list of useful Table Top RPG tools, software, and resources.
 * [Heroforge](https://www.heroforge.com/) - Customize a minifigure, and get it 3D printed.
 * [Roll20](https://roll20.net/) - A browser based virtual tabletop with many features including character sheets, a live map, a dice roller, and chat.
 * [Fantasy Grounds](https://www.fantasygrounds.com/features/) - A virtual tabletop.
-* [Realm Works](http://www.wolflair.com/realmworks) - A campaign manager, features relationship diagrams, images, and lots of other organizational tools.
-* [Obsidian Portal](https://obsidianportal.com) - A web based campaign manager that allows you to build a wiki, store characters, and interact with players.
+* [VUE](http://vue.tufts.edu/) - A mind-mapping tool, useful for relationship and political maps.
 
 ### System Specific
 

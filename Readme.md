@@ -44,6 +44,7 @@ A curated list of useful Table Top RPG tools, software, and resources.
 
 * [Muddle's City/Town Location Generator](http://picastudio.com/random/cities.php) - Generate names of towns, inns, cities, and city districts. Also specify "Adjectives" good, evil, magical, elven, and dwarven. Site also contains Generators for deities, dungeons, and wilderness.
 * [donjon](https://donjon.bin.sh/) - Generators for all kinds of things, world maps, names, dungeons, inns, and quests, including some useful calculators.
+* [Mathemagician Town Generator](http://www.mathemagician.net/town.html) - Generate random NPCs and town assets based on race distribution.
 
 ## Encounter Tools
 
@@ -84,6 +85,7 @@ A curated list of useful Table Top RPG tools, software, and resources.
 * [Roll20](https://roll20.net/) - A browser based virtual tabletop with many features including character sheets, a live map, a dice roller, and chat.
 * [Fantasy Grounds](https://www.fantasygrounds.com/features/) - A virtual tabletop.
 * [VUE](http://vue.tufts.edu/) - A mind-mapping tool, useful for relationship and political maps.
+* [John's Dungeons and Dragons Utilities](http://jtevans.kilnar.com/rpg/dnd/tools/index.php) - A collection of useful tools, generators, and calculators.
 
 ### System Specific
 
